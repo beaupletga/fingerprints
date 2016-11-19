@@ -1,0 +1,32 @@
+
+Ce programme est hybride. Il est codé à la fois en C++ et en python pour l'interface graphique.
+Par conséquent, il est nécessaire de mettre à jour ou d'installer certains packages via le terminal.
+
+Python :
+
+
+  Pour l'utilisation de tkinter :
+
+  sudo apt-get install python-imaging-tk
+  sudo apt-get install python-tk
+
+C++ :
+
+  Vous devez être sur la version 14 de C++ et utiliser la version 5.0 de g++. Pour le savoir : gcc --Version
+
+
+
+Executer le programme :
+
+  Vous devez vous situer dans le dossier où est contenu l'ensemble du code. Pour vous déplacer dans le terminal : cd 'nom du repertoire'.
+
+  Une fois que vous êtes situé dans le dossier qui contient l'ensemble des fichiers nécéssaires (interface.py,main.cc...), pour executer le programme tapez :
+
+
+  python interface.py
+
+
+
+
+
+Pour l'utilisation du programme, une aide est disponnible dans : A propos -> Aide
